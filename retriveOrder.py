@@ -8,7 +8,7 @@ if len(sys.argv)!=2:
 
 ordNum = sys.argv[1]
 
-cnx = mysql.connector.connect(user='root', password='11QQaa!!',
+cnx = mysql.connector.connect(user='', password='',
                               host='127.0.0.1',
                               database='cubecart')
 cursor = cnx.cursor()
