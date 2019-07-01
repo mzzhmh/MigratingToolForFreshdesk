@@ -10,6 +10,15 @@ This Python project is used for migrating all the tech support agents and ticket
 
 3. Run 3_impticket.py to export the tickets in Ticket01.log into the <companyName> freshdesk server (Restful API is under development)
   
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  retriveOrder.py program is used for exporting the customer details from the Cubecart mysql database.
+  
+  
+  
 
 
 
